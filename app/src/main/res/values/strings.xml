@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Avengers App</string>
+    <string name="Entering_name">Enter Your Name Here</string>
+    <string name="My_app">Hey! this is my first app</string>
+    <string name="Click">Click Here</string>
+    <string name="learning_android_development">Learning Android Development</string>
+    <string name="Avengers_app">Avengers App</string>
+    <string name="register_yourself">Register Yourself</string>
+</resources>
